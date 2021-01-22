@@ -1,0 +1,30 @@
+#title{
+    font-size: 2rem;
+}
+input{
+    margin-top: 10px;
+    display: inline-block;
+    padding: 5px;
+    width: 50%;
+    font-size: 1.25rem;
+    border: 2px solid #099dfd;
+    border-radius: 5px;
+}
+
+#function{
+    font-size: 1.5rem;
+    color: black;
+}
+
+.functionButton{
+    background-color: gainsboro;
+    margin-top: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 15px;
+    padding-left: 15px;
+    color: black;
+    border: none;
+    font-size: 1.25rem;
+    border-radius: 10px;
+}
